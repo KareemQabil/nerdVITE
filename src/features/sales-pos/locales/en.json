@@ -1,0 +1,56 @@
+{
+    "common": {
+        "loading": "Loading...",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "processing": "Processing...",
+        "error_loading_products": "Failed to load data",
+        "try_again_later": "Please try again later",
+        "loading_products": "Loading products...",
+        "all": "All"
+    },
+    "posScreen": {
+        "loadingPOSData": "Loading POS Data...",
+        "noActiveShift": "No active shift found. Please start a shift.",
+        "dataLoadError": "Error loading data: {{message}}",
+        "shiftLoadError": "Error loading shift: {{message}}"
+    },
+    "product": {
+        "stock": "Stock",
+        "out_of_stock": "Out of Stock",
+        "unavailable": "Unavailable",
+        "add_to_cart": "Add to Cart",
+        "no_image": "No Image",
+        "no_image_short": "No Img",
+        "no_products_found": "No products found",
+        "adjust_filters": "Try changing filters or search"
+    },
+    "cart": {
+        "your_order": "Current Order",
+        "close_cart": "Close Cart",
+        "customer": "Customer",
+        "table": "Table",
+        "no_customer": "Guest",
+        "no_table": "Takeaway",
+        "empty_cart": "Cart is empty",
+        "add_items_to_start": "Add items to start",
+        "subtotal": "Subtotal",
+        "tax": "Tax",
+        "discount": "Discount",
+        "grand_total": "Total",
+        "remove_item": "Remove Item"
+    },
+    "paymentModal": {
+        "title": "Complete Payment",
+        "amountDue": "Amount Due",
+        "amountPaid": "Amount Paid",
+        "changeDue": "Change Due",
+        "selectMethod": "Select Payment Method",
+        "payButton": "Confirm Payment",
+        "paymentSuccess": "Payment Successful!",
+        "paymentFailed": "Payment Failed",
+        "selectPaymentMethod": "Please select a payment method",
+        "amountLessThanTotal": "Paid amount is less than total",
+        "invalidPaymentMethod": "Invalid payment method"
+    }
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-pos-bg-start to-pos-bg-end text-white min-h-screen;
+    font-family: 'Almarai', sans-serif;
+  }
+}

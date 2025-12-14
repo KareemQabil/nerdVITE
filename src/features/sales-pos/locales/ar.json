@@ -1,0 +1,56 @@
+{
+    "common": {
+        "loading": "جاري التحميل...",
+        "cancel": "إلغاء",
+        "confirm": "تأكيد",
+        "processing": "جاري المعالجة...",
+        "error_loading_products": "فشل تحميل البيانات",
+        "try_again_later": "حاول مرة أخرى لاحقاً",
+        "loading_products": "جاري تحميل المنتجات...",
+        "all": "الكل"
+    },
+    "posScreen": {
+        "loadingPOSData": "جاري تحميل بيانات نقطة البيع...",
+        "noActiveShift": "لا يوجد شيفت مفتوح حالياً. الرجاء فتح شيفت للبدء.",
+        "dataLoadError": "خطأ في تحميل البيانات: {{message}}",
+        "shiftLoadError": "خطأ في تحميل الدوام: {{message}}"
+    },
+    "product": {
+        "stock": "المخزون",
+        "out_of_stock": "نفذت الكمية",
+        "unavailable": "غير متاح",
+        "add_to_cart": "إضافة للسلة",
+        "no_image": "لا توجد صورة",
+        "no_image_short": "لا صورة",
+        "no_products_found": "لا توجد منتجات",
+        "adjust_filters": "جرب تغيير البحث أو التصنيف"
+    },
+    "cart": {
+        "your_order": "الطلب الحالي",
+        "close_cart": "إغلاق السلة",
+        "customer": "العميل",
+        "table": "الطاولة",
+        "no_customer": "زائر",
+        "no_table": "تيك أواي",
+        "empty_cart": "السلة فارغة",
+        "add_items_to_start": "اختر منتجات للبدء",
+        "subtotal": "المجموع الفرعي",
+        "tax": "الضريبة",
+        "discount": "الخصم",
+        "grand_total": "الإجمالي",
+        "remove_item": "حذف الصنف"
+    },
+    "paymentModal": {
+        "title": "إتمام الدفع",
+        "amountDue": "المبلغ المستحق",
+        "amountPaid": "المبلغ المدفوع",
+        "changeDue": "الباقي",
+        "selectMethod": "اختر طريقة الدفع",
+        "payButton": "تأكيد الدفع",
+        "paymentSuccess": "تم الدفع بنجاح!",
+        "paymentFailed": "فشلت عملية الدفع",
+        "selectPaymentMethod": "الرجاء اختيار طريقة دفع",
+        "amountLessThanTotal": "المبلغ المدفوع أقل من الإجمالي",
+        "invalidPaymentMethod": "طريقة الدفع غير صحيحة"
+    }
+}
